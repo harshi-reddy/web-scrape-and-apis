@@ -1,5 +1,5 @@
 # web-scrape-and-apis
-Web Scraping &amp; APIs in Python(Dataquest Course)
+Web Scraping &amp; APIs in Python (Dataquest)
 
 ##### This course has 4 sub parts.
 
